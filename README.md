@@ -1,2 +1,3 @@
 # Ruby_Debian
-Build of tools and personal dotfiles  
+![alt text](https://raw.github.com/StefG94/Ruby_Debian/)
+
