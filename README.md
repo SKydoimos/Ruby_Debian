@@ -1,3 +1,4 @@
 # Ruby_Debian
-![alt text](https://raw.github.com/StefG94/Ruby_Debian/screenshot.png)
+![alt text](https://raw.githubusercontent.com/StefG94/Ruby_Debian/main/screenshot.png)
+
 
